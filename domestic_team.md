@@ -36,6 +36,7 @@
 | 미래웹 | http://www.miraeweb.com/blog | 웹 |
 | 박스앤위스커 | http://www.boxnwhis.kr/ | |
 | 버즈아트 | https://tech.bbuzzart.com/ | |
+| 빙글 테크블로그 | https://medium.com/vingle-tech-blog | |
 | 보드나라 | http://www.bodnara.co.kr/ | IT 뉴스 |
 | 보안뉴스 | http://www.boannews.com/ | 보안 |
 | 블로터 | http://www.bloter.net/ | IT 뉴스 |
